@@ -1,0 +1,17 @@
+.container {
+  width: 400px;
+  text-align: center;
+  font-family: Montserrat, Arial, Helvetica, sans-serif;
+}
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.title {
+  font-weight: bold;
+  font-size: 30px;
+}
+.description {
+  font-size: 20px;
+  font-weight: 500;
+}
